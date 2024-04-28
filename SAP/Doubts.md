@@ -1,0 +1,1 @@
+- Who places deletion steps in lastOperation which is then used by `triggerDeletionFlow` in MCM.

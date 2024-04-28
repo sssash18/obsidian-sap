@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "bb336cb42bdf0c3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a40f50a37e1a5696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac309cc1ad4ff1d6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/Important Resources.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d19dca54bef1e23b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/Work Journal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c921ffcc310a16ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/Mar 2024/08-03-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4a1ef6c2b049140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/Cases where ksc+algo better than ksc(vanilla) or CA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f59d915e69a6045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/CA sync upstream 1.29.0.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04c884856f477496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/CA sync upstream 1.29.0.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79118cc0a00a9a72",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8468f8a0971ba6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2df4fc8665fa1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d22c0f4a2564cb6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e7894be21b40bc5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Story",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1545d82eea5af448",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.50390243530273
+  },
+  "right": {
+    "id": "f5db45475a868317",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8044945ec9f2df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1135315313dafef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SAP/CA sync upstream 1.29.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3298922bd294fa64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SAP/CA sync upstream 1.29.0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "867fbd04de5abbb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "851df2a4bdb9cf11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SAP/CA sync upstream 1.29.0.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "04c884856f477496",
+  "lastOpenFiles": [
+    "Daily/2024-04-24.md",
+    "SAP/CA sync upstream 1.29.0.md",
+    "SAP/Optimization Algo for Machine ScaleUpi.md",
+    "SAP/AWS-Karpenter Analysis.md",
+    "SAP/CA vs POC.md",
+    "SAP/Cases where ksc+algo better than ksc(vanilla) or CA.md",
+    "Daily/2024-04-22.md",
+    "SAP/DOD/DOD.md",
+    "Rough.md",
+    "SAP/MCM-CA Overhaul POC.md",
+    "SAP/MC IT enhance -> local_integration_test.md",
+    "SAP/Work Journal.md",
+    "SAP/Important Resources.md",
+    "Daily/Feb 2024/21-02-2024.md",
+    "Daily/Feb 2024/26-02-2024.md",
+    "Daily/Feb 2024/28-02-2024.md",
+    "Daily/Feb 2024/29-02-2024.md",
+    "Daily/Feb 2024/14-02-2024.md",
+    "Daily/2024-03-22.md",
+    "SAP/DOD/March 2024.md",
+    "Daily/2024-03-21.md",
+    "Daily/2024-03-18.md",
+    "SAP/DOD",
+    "Daily/Mar 2024/2024-03-13.md",
+    "Daily/Mar 2024/08-03-2024.md",
+    "Daily/Mar 2024/2024-03-03.md",
+    "Daily/Feb 2024",
+    "Daily/Mar 2024/07-03-2024.md",
+    "Untitled.canvas",
+    "Daily/Mar 2024",
+    "Learn",
+    "SAP/Untitled.canvas",
+    "Excalidraw",
+    "Daily",
+    "SAP"
+  ]
+}
